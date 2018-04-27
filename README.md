@@ -10,6 +10,8 @@ Inspired by [MailCatcher](http://mailcatcher.me/), easier to install.
 
 Built with Go - MailHog runs without installation on multiple platforms.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Overview
 
 MailHog is an email testing tool for developers:

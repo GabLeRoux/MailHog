@@ -1,0 +1,8 @@
+{
+  "name": "mailhog",
+  "description": "email testing tool for developers",
+  "website": "https://github.com/mailhog/MailHog",
+  "success_url": "/",
+  "stack": "container"
+}
+
